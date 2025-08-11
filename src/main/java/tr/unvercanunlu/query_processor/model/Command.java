@@ -1,4 +1,4 @@
-package tr.unvercanunlu.practice.model;
+package tr.unvercanunlu.query_processor.model;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Optional;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
-import tr.unvercanunlu.practice.util.TextUtil;
+import tr.unvercanunlu.query_processor.util.TextUtil;
 
 @RequiredArgsConstructor
 public enum Command {

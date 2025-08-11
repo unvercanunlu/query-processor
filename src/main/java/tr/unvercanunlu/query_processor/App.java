@@ -1,14 +1,14 @@
-package tr.unvercanunlu.practice;
+package tr.unvercanunlu.query_processor;
 
 import java.util.LinkedList;
 import java.util.List;
 import lombok.extern.slf4j.Slf4j;
-import tr.unvercanunlu.practice.config.AppConfig;
-import tr.unvercanunlu.practice.model.Query;
-import tr.unvercanunlu.practice.service.QueryProcessor;
-import tr.unvercanunlu.practice.service.impl.QueryProcessorImpl;
-import tr.unvercanunlu.practice.util.TextUtil;
-import tr.unvercanunlu.practice.util.ValidationUtil;
+import tr.unvercanunlu.query_processor.config.AppConfig;
+import tr.unvercanunlu.query_processor.model.Query;
+import tr.unvercanunlu.query_processor.service.QueryProcessor;
+import tr.unvercanunlu.query_processor.service.impl.QueryProcessorImpl;
+import tr.unvercanunlu.query_processor.util.TextUtil;
+import tr.unvercanunlu.query_processor.util.ValidationUtil;
 
 @Slf4j
 public class App {

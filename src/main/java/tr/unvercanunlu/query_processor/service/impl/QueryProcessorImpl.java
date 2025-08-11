@@ -1,14 +1,14 @@
-package tr.unvercanunlu.practice.service.impl;
+package tr.unvercanunlu.query_processor.service.impl;
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
-import tr.unvercanunlu.practice.config.AppConfig;
-import tr.unvercanunlu.practice.model.Command;
-import tr.unvercanunlu.practice.model.Query;
-import tr.unvercanunlu.practice.service.QueryProcessor;
-import tr.unvercanunlu.practice.util.TextUtil;
+import tr.unvercanunlu.query_processor.config.AppConfig;
+import tr.unvercanunlu.query_processor.model.Command;
+import tr.unvercanunlu.query_processor.model.Query;
+import tr.unvercanunlu.query_processor.service.QueryProcessor;
+import tr.unvercanunlu.query_processor.util.TextUtil;
 
 public class QueryProcessorImpl implements QueryProcessor {
 

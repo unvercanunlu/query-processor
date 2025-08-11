@@ -1,7 +1,7 @@
-package tr.unvercanunlu.practice.service;
+package tr.unvercanunlu.query_processor.service;
 
 import java.util.List;
-import tr.unvercanunlu.practice.model.Query;
+import tr.unvercanunlu.query_processor.model.Query;
 
 public interface QueryProcessor {
 

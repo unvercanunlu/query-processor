@@ -1,4 +1,4 @@
-package tr.unvercanunlu.practice.model;
+package tr.unvercanunlu.query_processor.model;
 
 public record Query(
     Command command,

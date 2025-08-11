@@ -1,4 +1,4 @@
-package tr.unvercanunlu.practice.config;
+package tr.unvercanunlu.query_processor.config;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;

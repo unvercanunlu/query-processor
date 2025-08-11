@@ -1,4 +1,4 @@
-package tr.unvercanunlu.practice.util;
+package tr.unvercanunlu.query_processor.util;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
