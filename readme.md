@@ -1,4 +1,4 @@
-**Query Processor**
+**Query Processor**  
 A simple Java-based query processing engine supporting **INSERT**, **UPDATE**, **DELETE**, **COMMIT**, and **ROLLBACK** commands with parsing, validation, and staged/committed state management.
 
 **Features**
