@@ -14,6 +14,7 @@ public class QueryProcessorImpl implements QueryProcessor {
 
   private Map<String, Integer> committed = new HashMap<>();
   private Map<String, Integer> staged = new HashMap<>();
+
   private boolean matched = true;
 
   @Override

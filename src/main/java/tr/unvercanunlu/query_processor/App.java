@@ -13,7 +13,6 @@ import tr.unvercanunlu.query_processor.util.ValidationUtil;
 @Slf4j
 public class App {
 
-
   public static void main(String[] args) {
     ValidationUtil.validateArguments(args);
 

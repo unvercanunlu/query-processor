@@ -9,5 +9,4 @@ public record Query(
     String original
 ) {
 
-
 }
